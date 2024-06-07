@@ -2,7 +2,7 @@
 
 # Olá curioso(a) <img src="https://cdn.discordapp.com/emojis/1184599007629152336.gif?size=80&quality=lossless" width="29px">
 
-Oi, eu sou o Brunno, um simples programador, apaixonado por tecnologias e inovações.
+Oi, eu sou o Brunno, tenho **19** anos, sou um simples programador apaixonado por tecnologias e inovações.
 
 ## ⚡ Tecnologias
 Converse comigo sobre:
