@@ -2,7 +2,7 @@
 
 # Olá, curioso(a) <img src="https://cdn.discordapp.com/emojis/1184599007629152336.gif?size=80&quality=lossless" width="29px">
 
-Oi, eu sou o **Brunno**, tenho **19 anos** e sou um **engenheiro de software** apaixonado por tecnologias e inovações.
+Oi, eu sou o **Brunno**, tenho **19 anos** e passo tanto tempo programando que meu café já tem CPF. Sou um apaixonado por tecnologias, bugs inexplicáveis e aquela sensação de ver o código rodar de primeira (aconteceu uma vez em 2018).
 
 ## ⚡ Converse comigo sobre:
 - Desenvolvimento web - **HTML/CSS, JavaScript**
