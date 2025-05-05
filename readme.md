@@ -29,8 +29,6 @@ Oi, eu sou o **Brunno**, tenho **19 anos** e passo tanto tempo programando que m
 
 ## 📫 Onde me encontrar:
 
-## 📫 Onde me encontrar:
-
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/brunno.xw)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/capotagrelo)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/687022032726392839)
