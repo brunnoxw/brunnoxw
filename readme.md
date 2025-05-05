@@ -29,15 +29,11 @@ Oi, eu sou o **Brunno**, tenho **19 anos** e sou um **engenheiro de software** a
 
 ## 📫 Onde me encontrar:
 
-<a href="https://instagram.com/brunno.xw" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" width="40" style="display:inline-block; margin-right: 10px;">
-</a>
-<a href="https://x.com/capotagrelo" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" width="40" style="display:inline-block; margin-right: 10px;">
-</a>
-<a href="https://discordapp.com/users/687022032726392839" target="_blank">
-  <img src="https://skillicons.dev/icons?i=discord" width="40" style="display:inline-block;">
-</a>
+## 📫 Onde me encontrar:
+
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/brunno.xw)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/capotagrelo)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/687022032726392839)
 
 <br>
 
