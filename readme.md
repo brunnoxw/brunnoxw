@@ -4,7 +4,7 @@
 
 <p>
 <a href="https://instagram.com/brunno.xw"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://x.com/capotagrelo"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://x.com/recobrir"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="https://discordapp.com/users/687022032726392839"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=brunnoxw&label=Profile%20views&color=6c8eef&style=for-the-badge"/>
 </p>
