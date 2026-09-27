@@ -37,8 +37,12 @@ I'm **Brunno**, a 22-year-old **Full-Stack Developer** from Brazil. I started co
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=brunnoxw&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnoxw&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brunnoxw&theme=tokyonight"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brunnoxw&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brunnoxw&theme=tokyonight"/>
 
 <br>
 
