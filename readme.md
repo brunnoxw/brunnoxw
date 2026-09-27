@@ -1,48 +1,93 @@
-<div style="background-image: url('icons/background.png'); background-size: cover; background-position: center; color: white; padding: 20px; width: 100vw; height: 100vh; box-sizing: border-box;">
+<div align="center">
 
-# Olá, curioso(a) <img src="https://cdn.discordapp.com/emojis/1184599007629152336.gif?size=80&quality=lossless" width="29px">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=6C8EEF&center=true&vCenter=true&width=600&height=55&lines=Hi%2C+I'm+Brunno+%F0%9F%91%8B;Full-Stack+Developer;Building+things+people+actually+use" alt="header" />
 
-Oi, eu sou o **Brunno**, tenho **19 anos** e passo tanto tempo programando que meu café já tem CPF. Sou um apaixonado por tecnologias, bugs inexplicáveis e aquela sensação de ver o código rodar de primeira (aconteceu uma vez em 2018).
+<p>
+<a href="https://instagram.com/brunno.xw"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://x.com/capotagrelo"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://discordapp.com/users/687022032726392839"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=brunnoxw&label=Profile%20views&color=6c8eef&style=for-the-badge"/>
+</p>
 
-## ⚡ Converse comigo sobre:
-- Desenvolvimento web - **HTML/CSS, JavaScript**
-- Desenvolvimento backend - **Mongoose, Express**
-- Análise de dados - **Javascript, Python**
-- Automação de processos robóticos
-- E mais algumas coisas que não consigo me lembrar
+</div>
 
-<br>
+## 👋 About me
 
-## 🧠 Skills
+I'm **Brunno**, a 22-year-old **Full-Stack Developer** from Brazil. I started coding at 14 by building and selling Minecraft plugins in Java — that childhood curiosity turned into a career. Today I run my own **digital-solutions studio** and build web platforms, backends and APIs.
 
-[![My Skills](https://skillicons.dev/icons?i=ae,angular,py,js,eclipse,ts,java,css,html,react,ruby,svelte&perline=4)](https://wxw.lol)
-
-<br>
-
-## 🎓 Sobre mim
-
-- 💼 Engenheiro de Software
-- 📖 Estudando e aprendendo todos os dias com a prática
-- 🧪 Curioso por natureza, sempre quebrando coisas pra entender como funcionam
+- 🚀 Built **147tracker**, my first website, now with **3,000,000+** registered users
+- 🧩 Obsessed with **REST APIs** — I built one that powers sites and bots in production
+- 💚 Big fan of **open source**
+- 🌱 Currently focused on growing my studio and investing back into my own projects
+- ⚡ Fun fact: a childhood Discord hobby is what pays the bills today
 
 <br>
 
-## 📫 Onde me encontrar:
+## 🛠️ Tech Stack
 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/brunno.xw)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/capotagrelo)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/687022032726392839)
+<div align="center">
 
-<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,svelte,nodejs,express,mongodb,py,rust,electron,java&perline=7)](https://skillicons.dev)
 
-## 🚀 Alguns dos meus projetos
-
-- [Organizador de links](https://147.baby)  
-- [Rastreamento de interações no Discord](https://147.tools)  
-- [REST API para integração com sites](https://147.rest)  
-- [Meu portfólio pessoal](https://wxw.lol)
+</div>
 
 <br>
 
-<img align="center" alt="GIF" src="https://i.pinimg.com/originals/f6/84/6c/f6846c6a6d128ac0106eea3a85a0125a.gif">
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=brunnoxw&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnoxw&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=brunnoxw&hide_border=true&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brunnoxw/brunnoxw/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brunnoxw/brunnoxw/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/brunnoxw/brunnoxw/output/github-snake.svg" />
+</picture>
+
+</div>
+
+<br>
+
+## 📁 Featured Projects
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <b>nnbio</b><br/>
+      <sub>Link organizer / bio platform</sub><br/><br/>
+      <a href="https://nnbio.wtf">→ nnbio.wtf</a>
+    </td>
+    <td align="center" width="33%">
+      <b>VJ Vacão Course</b><br/>
+      <sub>Online course platform</sub><br/><br/>
+      <a href="https://curso.vjvacao.com">→ curso.vjvacao.com</a>
+    </td>
+    <td align="center" width="33%">
+      <b>BrunnoClear V2</b><br/>
+      <sub>Utility / cleaning tool</sub><br/><br/>
+      <a href="https://github.com/brunnoxw/BrunnoClear-V2">→ GitHub</a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<sub>Thanks for stopping by ✨ — feel free to reach out.</sub>
+
 </div>
